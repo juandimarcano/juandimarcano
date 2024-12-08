@@ -2,7 +2,7 @@
 
 ### 🌟 **Sobre Mí**
 
-Me encanta el desarrollo de software y web 💻🌐, siempre buscando nuevas tecnologías para explorar. Actualmente disfruto crear soluciones innovadoras 🚀, resolver problemas complejos 🧩 y colaborar en proyectos que me permitan seguir aprendiendo y creciendo 📈. Estoy siempre abierto a colaborar en proyectos de código abierto 🔓, ¡así que si tienes una idea en mente 💡, no dudes en contactarme!
+Me encanta el desarrollo de software y web 💻🌐, siempre buscando nuevas tecnologías para explorar. Actualmente disfruto crear soluciones  🚀, resolver problemas 🧩 y colaborar en proyectos que me permitan seguir aprendiendo y creciendo 📈. Estoy siempre abierto a colaborar en proyectos de código abierto 🔓, ¡así que si tienes una idea en mente 💡, no dudes en contactarme!
 
 Fuera de la tecnología, me gusta jugar juegos de consolas clásicas 🎮, escuchar música 🎵 y leer libros de psicología 🧠, filosofía 📜 y tecnología 📖.
 
