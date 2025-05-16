@@ -16,10 +16,8 @@
 
 <p align="left">
 Software developer in training from Venezuela🇻🇪. Currently, I focus on designing scalable solutions with modern technologies 💻, solving technical challenges 🧩, and collaborating on projects that expand my knowledge of systems and programming languages. I have a strong interest in contributing to open-source initiatives 🔓, where I can apply my skills while learning from technical communities.
-</p><p>
-Beyond coding, I spend time exploring retro video games 🎮, watching series 📺, improving my language skills 🌎, and diving into readings on cognitive psychology, contemporary philosophy, and software architecture 📖.
+</p><p align="left">Beyond coding, I spend time exploring retro video games 🎮, watching series 📺, improving my language skills 🌎, diving into readings on cognitive psychology, contemporary philosophy, and software architecture 📖, and observe nature and natural landscapes 🌿🏞️.
 
-  
 </p>
 
 ###
@@ -72,9 +70,9 @@ Beyond coding, I spend time exploring retro video games 🎮, watching series �
 
 <div align="left">
   
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  
+<a href="https://www.instagram.com/juandimarcano?igsh=MXI0d2xwaWgyY2xuNw=="> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+ </a> <a href="mailto:juandi.contacto.dev@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
